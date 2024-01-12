@@ -1,3 +1,2 @@
 matrix_operations/
-utils/*_v1*
-.gitignore
+utils/*_v1.c*

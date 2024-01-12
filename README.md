@@ -4,7 +4,7 @@ Machine Learning in C: Housing Price Prediction
 Overview
 
 
-This repository hosts a C language-based machine learning application focused on predicting housing prices. The primary aim of this project is to explore and implement machine learning concepts using the C programming language, a field typically dominated by higher-level languages like Python and R. This project demonstrates the feasibility and methodology of performing data-driven predictions in a lower-level language environment.
+This repository hosts a C language-based machine learning application focused on predicting housing prices. The primary aim of this project is to explore and implement machine learning concepts using the C programming language, a field typically dominated by higher-level languages like Python and R.
 
 Features
 

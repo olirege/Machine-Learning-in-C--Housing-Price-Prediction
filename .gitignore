@@ -1,2 +1,3 @@
-matrix_operations/
-utils/*_v1.c*
+gradient_descent/matrix_operations/
+gradient_descent/utils/*_v1.c*
+.vscode/
